@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0098/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 藥師琉璃光王七佛本願功德經念誦儀軌供養法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0926.xml
+    old_id: T19n0926
+hash: sha256:701aae88209fe4c0d11acff0d59ba991acbb1f57e7920a3ceac1e21f65ac77c5
