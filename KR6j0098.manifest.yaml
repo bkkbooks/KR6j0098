@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0098/v1
 canonical_location: https://kanripo.org/bkk/KR6j0098/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 藥師琉璃光王七佛本願功德經念誦儀軌供養法
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0098_000.yaml, hash: 'sha256:701aae88209fe4c0d11acff0d59ba991acbb1f57e7920a3ceac1e21f65ac77c5'}
-  - {seq: 1, filename: KR6j0098_001.yaml, hash: 'sha256:5850a333a6f8aa0c4d7023e650f5ae39b2623b6bd846962ab2fde610340621ef'}
+  - {seq: 1, filename: KR6j0098_001.yaml, hash: 'sha256:7bae095a7bf079034a53f9e27b6db3b4d5de5a679386be779c366958e0d0fae2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0098_000.markers.yaml, hash: 'sha256:f9040ec6b27ed6b07b275436be10b2a0f8a482b1fc170eaf7bf00e9766aceca5'}
-  - {seq: 1, role: markers, filename: assets/KR6j0098_001.markers.yaml, hash: 'sha256:5bb072ad25b9c0d376fcd56eb1475a2be34c90a70a930bec281659c19ac673e6'}
+  - {seq: 1, role: markers, filename: assets/KR6j0098_001.markers.yaml, hash: 'sha256:9a6a0f82b00ac5014215591759d3566f4a42ce0d7ab993247b786eec350ffeeb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,4 +39,7 @@ table_of_contents:
     經念誦儀軌供養法'
   type: juan
   level: 1
-hash: sha256:e6cc4ca9196825bf968dbb7233adaa2e2b8b5e788a32fd95d8f56ee418754d41
+hash: sha256:fd8dab6e52dffbe6efc6e20aa81d14c07d38f493ba6f7c5df3d07133d8cf60a4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
